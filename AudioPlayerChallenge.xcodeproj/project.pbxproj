@@ -12,6 +12,8 @@
 		BA8DFCE41E358DEB002B8C54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA8DFCE21E358DEB002B8C54 /* Main.storyboard */; };
 		BA8DFCE61E358DEB002B8C54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA8DFCE51E358DEB002B8C54 /* Assets.xcassets */; };
 		BA8DFCE91E358DEB002B8C54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA8DFCE71E358DEB002B8C54 /* LaunchScreen.storyboard */; };
+		BA8DFCF11E358FC1002B8C54 /* cutegirl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BA8DFCF01E358FC1002B8C54 /* cutegirl.jpg */; };
+		BA8DFCF31E358FCE002B8C54 /* ILikeBadHouseVersion.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BA8DFCF21E358FCE002B8C54 /* ILikeBadHouseVersion.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		BA8DFCE51E358DEB002B8C54 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BA8DFCE81E358DEB002B8C54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA8DFCEA1E358DEB002B8C54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA8DFCF01E358FC1002B8C54 /* cutegirl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cutegirl.jpg; sourceTree = "<group>"; };
+		BA8DFCF21E358FCE002B8C54 /* ILikeBadHouseVersion.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ILikeBadHouseVersion.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				BA8DFCE21E358DEB002B8C54 /* Main.storyboard */,
 				BA8DFCE51E358DEB002B8C54 /* Assets.xcassets */,
 				BA8DFCE71E358DEB002B8C54 /* LaunchScreen.storyboard */,
+				BA8DFCF01E358FC1002B8C54 /* cutegirl.jpg */,
+				BA8DFCF21E358FCE002B8C54 /* ILikeBadHouseVersion.mp3 */,
 				BA8DFCEA1E358DEB002B8C54 /* Info.plist */,
 			);
 			path = AudioPlayerChallenge;
@@ -123,8 +129,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA8DFCF31E358FCE002B8C54 /* ILikeBadHouseVersion.mp3 in Resources */,
 				BA8DFCE91E358DEB002B8C54 /* LaunchScreen.storyboard in Resources */,
 				BA8DFCE61E358DEB002B8C54 /* Assets.xcassets in Resources */,
+				BA8DFCF11E358FC1002B8C54 /* cutegirl.jpg in Resources */,
 				BA8DFCE41E358DEB002B8C54 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
